@@ -1,0 +1,14 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+*.swp
+*.swo
+*.DS_Store
+.pytest_cache/
+.ipynb_checkpoints/
